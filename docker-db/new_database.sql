@@ -1,1 +1,0 @@
-CREATE TABLE categories (id BIGINT);
