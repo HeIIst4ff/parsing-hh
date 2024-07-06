@@ -1,6 +1,0 @@
-TELEGRAM_BOT_TOKEN = '7386217321:AAHhpIkk9WBx9IbRkkO3uokqPuFrm8aOg7M'
-DB_HOST = 'your_db_host'
-DB_NAME = 'your_db_name'
-DB_USER = 'your_db_user'
-DB_PASSWORD = 'your_db_password'
-DB_PORT = 'your_db_port'
