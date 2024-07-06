@@ -1,0 +1,4 @@
+aiogram==3
+asyncpg==0.21.0
+requests==2.25.1
+psycopg2-binary==2.9.1
